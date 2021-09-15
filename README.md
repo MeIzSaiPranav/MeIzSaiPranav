@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Pigasus 
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on A Project
-- 📫 How to reach me: https://t.me/Me_iz_mad_boi
+- 📫 How to reach me: https://telegram.dog/Me_iz_mad_boi
 -->
 
 <div align="center">
