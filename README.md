@@ -1,14 +1,12 @@
-### Hi there 👋
+# Hello<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-<!
-**MeIzSaiPranav/MeIzSaiPranav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="center" src="./assets/about.png?raw=true"/>
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Pigasus 
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on A Project
-- 📫 How to reach me: https://telegram.dog/Me_iz_mad_boi
+- 📫 How to reach me: https://telegram.me/Me_iz_mad_boi
 -->
 
 <div align="center">
