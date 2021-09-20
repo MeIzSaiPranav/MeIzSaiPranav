@@ -35,3 +35,6 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
+
+
+![Mrvishal2k2's Github Stats](https://github-readme-stats.vercel.app/api?count_private=true&include_all_commits=true&username=Mrvishal2k2&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
