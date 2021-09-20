@@ -1,7 +1,7 @@
 # Hello<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-<img align="center" src="./assets/about.png?raw=true"/>
 
+<img align="center" src="./assets/about.png?raw=true"/>
 
 - 🔭 I’m currently working on Pigasus 
 - 🌱 I’m currently learning Python
