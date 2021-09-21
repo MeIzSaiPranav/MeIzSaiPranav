@@ -9,6 +9,9 @@
 - 📫 How to reach me: https://telegram.me/Me_iz_mad_boi
 -->
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=A+Passionate+Developer+From+India%E2%9C%8C%EF%B8%8F;Working%2C+In%2C+PigasusXTeam%E2%9D%A4%EF%B8%8F">
+</p>
 
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
