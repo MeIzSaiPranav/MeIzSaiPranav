@@ -51,7 +51,7 @@
 </div>    
 
 
-<img align="right" alt="cmulay | Read Book" src="https://github.com/MeIzSaiPranav/MeIzSaiPranav/blob/main/designs/multi.gif" width="300" height="300" />
+<img align="right" alt="cmulay | Read Book" src="https://github.com/MeIzSaiPranav/MeIzSaiPranav/blob/main/gif/multi.gif" width="300" height="300" />
 
 
 
