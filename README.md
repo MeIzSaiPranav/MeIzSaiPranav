@@ -45,9 +45,14 @@
 <center>
  <a href="mailto:MailToSaiPranav@gmail.com"><img src="https://img.icons8.com/fluent/50/000000/gmail--v2.png"></a>
 </center>
+<a href="https://telegram.me/Me_Iz_Mad_Boi"><img src="https://img.icons8.com/color/50/000000/telegram-app--v2.png"></a>
+</center>
+
  
 
 
+ 
+ 
 <img align="center" src="./assets/git.png?raw=true"/>
 
 ![MeIzSaiPranav's Github Stats](https://github-readme-stats.vercel.app/api?count_private=true&include_all_commits=true&username=MeIzSaiPranav&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
