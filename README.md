@@ -51,6 +51,10 @@
 </div>    
 
 
+<img align="right" alt="cmulay | Read Book" src="https://github.com/MeIzSaiPranav/MeIzSaiPranav/blob/main/designs/multi.gif" width="300" height="300" />
+
+
+
 <img align="center" src="./assets/git.png?raw=true"/>
 
 ![MeIzSaiPranav's Github Stats](https://github-readme-stats.vercel.app/api?count_private=true&include_all_commits=true&username=MeIzSaiPranav&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
