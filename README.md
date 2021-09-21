@@ -51,9 +51,6 @@
 </div>    
 
 
-<p align="left"> <a href="https://github.com/MeIzSaiPranav"><img src="https://github-profile-trophy.vercel.app/?username=MeIzSaiPranav&no-bg=true" alt="meizsaipranav" /></a> </p>
-
-
 
 
 <img align="right" alt="cmulay | Read Book" src="https://github.com/MeIzSaiPranav/MeIzSaiPranav/blob/main/gifs/multi.gif" width="300" height="300" />
