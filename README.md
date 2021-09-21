@@ -41,8 +41,11 @@
 </div>
 
 <div align="center">
-<h3 align="center">Connect With Me!!!<img align="center" src="https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/gifs/Handshake.gif" height="33px" /></h3>
+<h3 align="center">Connect With Me!!!<img align="center" src="https://github.com/MeIzSaiPranav/MeIzSaiPranav/blob/master/gifs/Handshake.gif" height="33px" /></h3>
 <center>
+ <a href="mailto:MailToSaiPranav@gmail.com"><img src="https://img.icons8.com/fluent/50/000000/gmail--v2.png"></a>
+</center>
+ 
 
 
 <img align="center" src="./assets/git.png?raw=true"/>
