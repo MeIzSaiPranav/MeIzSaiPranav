@@ -1,7 +1,7 @@
 # <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> Hello<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 <p align="center">
-  <a href="https://count.getloli.com"><img src="https://count.getloli.com/get/@satouriko?theme=gelbooru" /></a>
+  <a href="https://count.getloli.com"><img src="https://count.getloli.com/get/@demo?theme=rule34" /></a>
  <br />
   
   
