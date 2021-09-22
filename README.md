@@ -63,5 +63,5 @@
 
 <img align="center" src="./assets/git.png?raw=true"/>
 
-![MeIzSaiPranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeIzSaiPranav&show_icons=true&theme=gruvbox)
+![MeIzSaiPranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeIzSaiPranav&show_icons=true&theme=tokyonight)
 
