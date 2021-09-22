@@ -3,6 +3,9 @@
 <p align="center">
   <a href="https://count.getloli.com"><img src="https://count.getloli.com/get/@satouriko?theme=gelbooru" /></a>
   <br />
+  
+  
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=MeIzSaiPranav&label=Profile%20views&color=129e00&style=plastic" alt="MeIzSaiPranav" /> </p>
 
 
 <img align="center" src="./assets/about.png?raw=true"/>
@@ -58,6 +61,7 @@
 
 
 <img align="right" alt="cmulay | Read Book" src="https://github.com/MeIzSaiPranav/MeIzSaiPranav/blob/main/gifs/multi.gif" width="300" height="300" />
+
 
 
 
