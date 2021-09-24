@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://count.getloli.com"><img src="https://count.getloli.com/get/@demo?theme=rule34" /></a>
-    <img src="https://weather-icon.journeyad.repl.co/@Chennai?v=1" align="right">
+    <img src="https://weather-icon.journeyad.repl.co/@Delhi?v=1" align="right">
  </p>
   
   
