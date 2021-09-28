@@ -83,3 +83,8 @@
 
 ![MeIzSaiPranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeIzSaiPranav&show_icons=true&theme=synthwave)
 
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=MeIzSaiPranav&theme=tokyonight"/>
+        <img width="99%" src="https://github-profile-trophy.vercel.app/?username=MeIzSaiPranav&row=1&theme=darkhub"/>
+    </a>
+</p>
+
