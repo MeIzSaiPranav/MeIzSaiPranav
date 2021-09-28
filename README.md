@@ -21,6 +21,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=A+Passionate+Developer+From+India%E2%9C%8C%EF%B8%8F;Working%2C+In%2C+PigasusXTeam%E2%9D%A4%EF%B8%8F">
 </p>
 
+</a>
+  <a href="https://instagram.com/me_iz_mad_boi">
+    <img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram"/>
+  </a>
+
+<a href="https://telegram.me/Me_Iz_Mad_Boi">
+    <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram"/>
+  </a>
+  
+ </a>
+  <a href="https://github.com/MeIzSaiPranav">
+    <img src="https://img.shields.io/github/followers/FayasNoushad?label=GitHub&logo=github&style=for-the-badge&color=blue"/>
+  </a>
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
