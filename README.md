@@ -32,7 +32,7 @@
   
  </a>
   <a href="https://github.com/MeIzSaiPranav">
-    <img src="https://img.shields.io/github/followers/FayasNoushad?label=GitHub&logo=github&style=for-the-badge&color=blue"/>
+    <img src="https://img.shields.io/github/followers/MeIzSaiPranav?label=GitHub&logo=github&style=for-the-badge&color=blue"/>
   </a>
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
