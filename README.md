@@ -18,7 +18,7 @@
 -->
 
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=-%3E+Bots+Developer;-%3E+Web+Developer;-%3E+Pigasus+Team;-%3EYoutuber;-%3E+Music+Lover;-%3E+Programmer)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=A+Passionate+Developer+From+India%E2%9C%8C%EF%B8%8F;Working%2C+In%2C+PigasusXTeam%E2%9D%A4%EF%B8%8F">
 </p>
 
 </a>
