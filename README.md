@@ -71,7 +71,7 @@
 </center>
 </div>    
 
-
+<a href="https://github.com/MeIzSaiPranav"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MeIzSaiPranav&bg_color=20222b&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 <img align="right" alt="cmulay | Read Book" src="https://github.com/MeIzSaiPranav/MeIzSaiPranav/blob/main/gifs/multi.gif" width="300" height="300" />
