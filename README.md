@@ -11,7 +11,7 @@
 
 <img align="center" src="./assets/about.png?raw=true"/>
 
-- 🔭 I’m currently working on Pigasus 
+- 🔭 I’m currently working on Absolutely nothing
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on A Project
 - 📫 How to reach me: https://telegram.me/Me_iz_mad_boi
